@@ -41,7 +41,7 @@ const RightSideNav = () => {
 
 
         <div className="bg-[#F3F3F3]">
-            <h2 className="text-2xl">Q-Zone</h2>
+            <h2 className="text-2xl pl-3">Q-Zone</h2>
             <div>
             <img src={pZoneImage1} alt="" />
             </div>
